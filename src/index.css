@@ -1,0 +1,32 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  background-color: #a5f3fc;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.App > h1 {
+  font-size: 35px;
+  margin-bottom: 0px;
+}
+
+.App table {
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.button {
+  border: none;
+  padding: 5px 10px;
+  font-size: 18px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  background: #64748b;
+  color: #fff;
+}
